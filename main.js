@@ -13,23 +13,23 @@ document.getElementById("Chocolatebtn").onclick = function(){
     total += 300;
     if(layer==1){
         layer1.style.visibility = 'visible';
-        layer1.style.background = 'rgb(250, 118, 23)';
+        layer1.style.background = 'rgb(150,75,0)';
     }
     if(layer==2){
         layer2.style.visibility = 'visible';
-        layer2.style.background = 'rgb(250, 118, 23)';
+        layer2.style.background = 'rgb(150,75,0)';
     }
     if(layer==3){
         layer3.style.visibility = 'visible';
-        layer3.style.background = 'rgb(250, 118, 23)';
+        layer3.style.background = 'rgb(150,75,0)';
     }
     if(layer==4){
         layer4.style.visibility = 'visible';
-        layer4.style.background = 'rgb(250, 118, 23)';
+        layer4.style.background = 'rgb(150,75,0)';
     }
     if(layer==5){
         layer5.style.visibility = 'visible';
-        layer5.style.background = 'rgb(250, 118, 23)';
+        layer5.style.background = 'rgb(150,75,0)';
     }
     if(layer>5){
         total -= 300;
@@ -45,23 +45,23 @@ document.getElementById("Strawberrybtn").onclick = function(){
     total += 100;
     if(layer==1){
         layer1.style.visibility = 'visible';
-        layer1.style.background = 'rgb(247, 102, 126)';
+        layer1.style.background = 'rgb(227, 115, 131)';
     }
     if(layer==2){
         layer2.style.visibility = 'visible';
-        layer2.style.background = 'rgb(247, 102, 126)';
+        layer2.style.background = 'rgb(227, 115, 131)';
     }
     if(layer==3){
         layer3.style.visibility = 'visible';
-        layer3.style.background = 'rgb(247, 102, 126)';
+        layer3.style.background = 'rgb(227, 115, 131)';
     }
     if(layer==4){
         layer4.style.visibility = 'visible';
-        layer4.style.background = 'rgb(247, 102, 126)';
+        layer4.style.background = 'rgb(227, 115, 131)';
     }
     if(layer==5){
         layer5.style.visibility = 'visible';
-        layer5.style.background = 'rgb(247, 102, 126)';
+        layer5.style.background = 'rgb(227, 115, 131)';
     }
     if(layer>5){
         total -= 100;
@@ -141,23 +141,23 @@ document.getElementById("Redvelvetbtn").onclick = function(){
     total += 350;
     if(layer==1){
         layer1.style.visibility = 'visible';
-        layer1.style.background = 'rgb(245, 47, 46)';
+        layer1.style.background = 'rgb(128, 0, 0)';
     }
     if(layer==2){
         layer2.style.visibility = 'visible';
-        layer2.style.background = 'rgb(245, 47, 46)';
+        layer2.style.background = 'rgb(128, 0, 0)';
     }
     if(layer==3){
         layer3.style.visibility = 'visible';
-        layer3.style.background = 'rgb(245, 47, 46)';
+        layer3.style.background = 'rgb(128, 0, 0)';
     }
     if(layer==4){
         layer4.style.visibility = 'visible';
-        layer4.style.background = 'rgb(245, 47, 46)';
+        layer4.style.background = 'rgb(128, 0, 0)';
     }
     if(layer==5){
         layer5.style.visibility = 'visible';
-        layer5.style.background = 'rgb(245, 47, 46)';
+        layer5.style.background = 'rgb(128, 0, 0)';
     }
     if(layer>5){
         total -= 350;
